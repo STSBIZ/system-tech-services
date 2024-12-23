@@ -2,7 +2,7 @@
 
 **Author:** Abdul Sabry  
 **Version:** 1.0.0  
-**Date:** [23/12/2024]
+**Date:** [Replace with today’s date]
 
 ## Description
 This repository contains the full-stack system for System Technology Services, including:
@@ -11,4 +11,3 @@ This repository contains the full-stack system for System Technology Services, i
 - Documentation
 
 We'll implement each service step by step, documenting changes, fixing errors as we go, and testing each component thoroughly.
-# system-tech-services
