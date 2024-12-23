@@ -6,8 +6,11 @@
  */
 
 const express = require('express');
+require('dotenv').config();
+
 const app = express();
 const PORT = process.env.PORT || 3000;
+
 
 // Basic route to test the API Gateway
 app.get('/', (req, res) => {
